@@ -9,7 +9,7 @@
 # Neo Antonio
 
 ###  About Me
-I'm an entrepreneurship college graduate. I'm interested and studying in data analytics & AI development using Python and fullstack web development using HTML, CSS, and Javascript.
+I'm an entrepreneurship college graduate. I'm interested in studying data analytics & AI development using Python as well as fullstack web development using HTML, CSS, and Javascript.
 
 ### Languages and Tools
 <div align="left">
