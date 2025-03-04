@@ -1,4 +1,4 @@
-<br clear="both">
+![image](https://github.com/user-attachments/assets/b5c9f66e-77a5-4845-8c09-524698902245)![image](https://github.com/user-attachments/assets/0edbddaa-4656-4ac9-bd19-96e2a3e40b45)![image](https://github.com/user-attachments/assets/3b3040c7-411b-4214-9fe5-d93c9c0f8142)<br clear="both">
 
 <div align="center">
   <img height="270" width="500" src="https://64.media.tumblr.com/4c1313fb62311980f738c18fe9d27dac/tumblr_noa6mdd3yb1qze3hdo1_r2_500.gifv"  />
@@ -20,6 +20,8 @@ I'm an entrepreneurship college graduate. I'm interested in studying data analyt
   <img src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" height="40" alt="css logo"/>
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="SQL logo"/>
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" height="40" alt="visualstudio logo"  />
   <img width="12" />
