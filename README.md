@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/b5c9f66e-77a5-4845-8c09-524698902245)![image](https://github.com/user-attachments/assets/0edbddaa-4656-4ac9-bd19-96e2a3e40b45)![image](https://github.com/user-attachments/assets/3b3040c7-411b-4214-9fe5-d93c9c0f8142)<br clear="both">
-
 <div align="center">
   <img height="270" width="500" src="https://64.media.tumblr.com/4c1313fb62311980f738c18fe9d27dac/tumblr_noa6mdd3yb1qze3hdo1_r2_500.gifv"  />
 
