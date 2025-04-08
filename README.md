@@ -8,6 +8,7 @@
 
 ###  About Me
 I'm an entrepreneurship college graduate. I'm interested in studying data analytics & AI development using Python as well as fullstack web development using HTML, CSS, and Javascript.
+I'm also very interested in marketing techniques and data and I'd like to apply my data analytics skills using Python with it.
 
 ### Languages and Tools
 <div align="left">
