@@ -24,10 +24,13 @@ I'm also very interested in marketing techniques and data and I'd like to apply 
   <img width="12" />
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" alt="jupyter logo"/>
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" height="40" alt="numpy logo"/>
+  <img width="12">
   <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" height="40" alt="visualstudio logo"/>
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="40" alt="vscode logo"/>
   <img width="12" />
+
 </div>
 
 ### Social Media
