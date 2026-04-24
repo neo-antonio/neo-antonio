@@ -7,8 +7,7 @@
 # Neo Antonio
 
 ###  About Me
-I'm an entrepreneurship college graduate. I'm interested in studying data analytics & AI development using Python as well as fullstack web development using HTML, CSS, and Javascript.
-I'm also very interested in marketing techniques and data and I'd like to apply my data analytics skills using Python with it.
+Hello, I am a **Paid Ads Marketing Specialist** exploring programming to better analyze and visualize data, automate workflows, and build smarter campaigns. Currently learning Python, SQL, and fullstack web development, with a focus on data visualization and marketing analytics.
 
 ### Languages and Tools
 <div align="left">
