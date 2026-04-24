@@ -36,6 +36,6 @@ I'm also very interested in marketing techniques and data and I'd like to apply 
 ### Social Media
 
 <div align="left">
-  <a href="www.linkedin.com/in/neoantonio" target="_blank">
+  <a href="https://www.linkedin.com/in/neoantonio" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" alt="linkedin logo"  />
 </div>
