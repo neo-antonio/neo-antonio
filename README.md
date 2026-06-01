@@ -7,7 +7,7 @@
 # Neo Antonio
 
 ###  About Me
-Hello, I am a **Paid Ads Marketing Specialist** exploring programming to better analyze and visualize data, automate workflows, and build smarter campaigns. Currently learning Python, SQL, and fullstack web development, with a focus on data visualization and marketing analytics.
+Hello, I am a **Marketing Specialist** exploring programming to better analyze and visualize data, automate workflows, and build smarter campaigns. Currently learning Python, SQL, and fullstack web development, with a focus on data visualization and marketing analytics.
 
 ### Languages and Tools
 <div align="left">
