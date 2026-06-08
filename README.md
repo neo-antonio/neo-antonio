@@ -29,7 +29,7 @@ Hello, I am a **Marketing Specialist** exploring programming to better analyze a
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="40" alt="vscode logo"/>
   <img width="12" />
-  <img src="[https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000]" height="40" alt="sql logo"/>
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="40" alt="sql logo"/>
   <img width="12" />
 
 </div>
