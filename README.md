@@ -11,6 +11,8 @@ Hello, I am a **Marketing Specialist** exploring programming to better analyze a
 
 ### Languages and Tools
 <div align="left">
+  <img src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" height="40" alt="claude logo"/>
+  <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=0000000" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" height="40" alt="html5 logo"/>
